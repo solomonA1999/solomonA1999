@@ -6,7 +6,7 @@
 
 <h2>🧬 Bioinformatic Projects:</h2>
 
-  - [Protein Data Base - pdb file modiciation](https://github.com/solomonA1999/)  
+  - [Protein Data Base - pdb file modiciation](https://github.com/solomonA1999/Protein_Data_Base_file_modication-programm)  
 
 <h2> 🤳 Connect with me:</h2>
 
