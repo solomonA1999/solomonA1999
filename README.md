@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-  - [Basketball Players Stats Interactive Web App](https://github.com/solomonA1999)
+  - [Basketball Players Stats Interactive Web App](https://github.com/solomonA1999/Basketball_Stat_Web_App)
 
 <h2>🧬 Bioinformatic Projects:</h2>
 
