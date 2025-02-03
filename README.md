@@ -5,7 +5,9 @@
   - [Basketball Players Stats Interactive Web App](https://github.com/solomonA1999/Basketball_Stat_Web_App)
 
 <h2>🧬 Bioinformatic Projects:</h2>
-
+  
+  - [In silico Drug Discovery](https://github.com/solomonA1999/Protein_Data_Base_file_modication-programm) 
+  
   - [Protein Data Base - pdb file modiciation](https://github.com/solomonA1999/Protein_Data_Base_file_modication-programm)  
 
 <h2> 🤳 Connect with me:</h2>
