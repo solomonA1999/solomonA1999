@@ -6,7 +6,7 @@
 
 <h2>🧬 Bioinformatic Projects:</h2>
   
-  - [In silico Drug Discovery](https://github.com/solomonA1999/Protein_Data_Base_file_modication-programm) 
+  - [In silico Drug Discovery](https://github.com/solomonA1999/In-silico-Drug-Discovery-Codes) 
   
   - [Protein Data Base - pdb file modiciation](https://github.com/solomonA1999/Protein_Data_Base_file_modication-programm)  
 
